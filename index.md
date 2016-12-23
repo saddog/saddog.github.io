@@ -15,10 +15,10 @@ Anyway, it didn't lok so bad.
 The laser machine has three basic models: carving, cutting and marking. After several failures, I made this picture. 
 ![laserwork](http://group.store.qq.com/qun/V13j5MC01om3tF/V3tsdvHItbcJVhInngK/800?w5=853&h5=640&rf=viewer_421)
 ### Try to make a self-balancing robot
-How it looks like.
+How it looks like.**************************************************************************************************
 ![thewheelthing](http://group.store.qq.com/qun/FcsU6GvCaE3tXdJyZtbpGg!!/V3tsdvHIpL4XFh4ZBM4/800?w5=640&h5=853&rf=viewer_421)
-//
-The code night. 
+
+The code night. **************************************************************************************************
 ![Codenight](http://group.store.qq.com/qun/FcsU6GvCaE3tXdJyZtbpGg!!/V3tsdvHIpfmXFjywgA3/800?w5=853&h5=640&rf=viewer_421)
 ### Maybe I can call it a swing
 before i figure out how the PID algorithm work, i made a swing thing.
